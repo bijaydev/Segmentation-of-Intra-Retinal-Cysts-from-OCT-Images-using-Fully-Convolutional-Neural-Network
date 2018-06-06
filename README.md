@@ -2,7 +2,7 @@
 
 ### Overview 
 
-This repository provides an implementation of an FCN model-based vendor independent IRC segmentation technique. The proposed FCN model is trained with preprocessed OCT scans from four different vendors (namely, Cirrus, Nidek, Spectralis, and Topcon). The preprocessing is performed as described in [1]. The method is trained and validated on the OPTIMA cyst segmentation challenge dataset [2]. The proposed model achieves a dice score of 0.73 on G3, 0.72 on G2 and 0.71 on G1 where G1, G2 and G3 represent Grader 1,Grader 2 and intersection of G1 and G2 respectively. 
+This repository provides an implementation of an FCN model-based vendor independent IRC segmentation technique. The proposed FCN model is trained with preprocessed OCT scans from four different vendors (namely, Cirrus, Nidek, Spectralis, and Topcon). The preprocessing is performed as described in [1]. The method is trained and validated on the OPTIMA cyst segmentation challenge dataset [2]. The proposed model achieves a dice score of 0.73 on G3, 0.72 on G2 and 0.71 on G1 where G1, G2 and G3 represent Grader 1, Grader 2 and intersection of G1 and G2 respectively. The model is trained on NVIDIA K40 GPU.
 
 ## Pre-requistes Required
 
