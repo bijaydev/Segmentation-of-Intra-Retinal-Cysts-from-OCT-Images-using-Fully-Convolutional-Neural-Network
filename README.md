@@ -7,12 +7,15 @@ This repository provides an implementation of an FCN model-based vendor independ
 ## Pre-requistes Required
 
 1.Tensorflow
+
 Refer to the following link https://www.tensorflow.org/install/install_sources. Tensorflow is used as backend for Keras. The link contains installation instructions with and without gpu support
 
 2.Keras
+
 To install Keras: sudo pip install keras
 
 3.Jupyter Notebook
+
 Refer following link for installation instructions https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04
 
 
